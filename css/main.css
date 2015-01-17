@@ -1,4 +1,17 @@
-.footer{
+.container
+{
+  padding-top: 50px;
+}
+
+.brand
+{
+  /*background: url(../media/lizard.png) no-repeat left center;*/
+  height: 20px;
+  width: 50px;
+}
+
+.footer
+{
 	position: absolute;
 	bottom: 0;
 	width: 100%;
