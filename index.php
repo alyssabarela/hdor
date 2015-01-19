@@ -15,26 +15,36 @@
   <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
+<div class="container"> <!-- container -->
+  <!-- row 1: nav -->
   <?php include 'php/nav.php';?>
   
-  <div class="container"> <!-- container -->
-    <div class="row"> <!-- Logo -->
-      <div class="col-sm-4">
-        <a class="brand" href="#">
-          <img class="img-responsive" src="img/lizard.png"></img>
-        </a>
-      </div>
-      <div class="col-sm-8">
-      </div>
-    </div> <!-- end logo -->
+  <!-- row2: header -->
+  <?php include 'php/header.php';?>
+  <!-- <header class="row">  move to header.php
+    <div class="col-sm-4">
+      <a class="brand" href="#">
+        <img class="img-responsive" src="img/lizard.png"></img>
+      </a>
+    </div>
+    <div class="col-sm-8">
+    </div>
+  </header> -->
 
-    <div class="row"> <!-- Main Content Start -->
+  <!-- row 3: article/aside -->
+  <div class="row"> <!-- Main Content Start -->
 
-    </div> <!-- Main Content end -->
+  </div> <!-- Main Content end -->
 
+<<<<<<< HEAD
   <?php include 'php/footer.php';?>
   </div> <!-- end container -->
   
+=======
+  <!-- row 4: footer -->
+  <?php include 'php/footer.php';?>
+</div> <!-- end container -->
+>>>>>>> origin/master
 
 <!-- javascript files -->
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
