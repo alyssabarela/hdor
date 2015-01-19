@@ -32,8 +32,9 @@
 
     </div> <!-- Main Content end -->
 
-    <?php include 'php/footer.php';?>
+  <?php include 'php/footer.php';?>
   </div> <!-- end container -->
+  
 
 <!-- javascript files -->
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
