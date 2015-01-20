@@ -36,15 +36,9 @@
 
   </div> <!-- Main Content end -->
 
-<<<<<<< HEAD
-  <?php include 'php/footer.php';?>
-  </div> <!-- end container -->
-  
-=======
   <!-- row 4: footer -->
   <?php include 'php/footer.php';?>
 </div> <!-- end container -->
->>>>>>> origin/master
 
 <!-- javascript files -->
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
