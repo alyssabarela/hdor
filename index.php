@@ -21,15 +21,6 @@
   
   <!-- row2: header -->
   <?php include 'php/header.php';?>
-  <!-- <header class="row">  move to header.php
-    <div class="col-sm-4">
-      <a class="brand" href="#">
-        <img class="img-responsive" src="img/lizard.png"></img>
-      </a>
-    </div>
-    <div class="col-sm-8">
-    </div>
-  </header> -->
 
   <!-- row 3: article/aside -->
   <div class="row"> <!-- Main Content Start -->
