@@ -24,7 +24,9 @@
 
   <!-- row 3: article/aside -->
   <div class="row"> <!-- Main Content Start -->
-
+    <div class="col-xs-12">
+      Hello
+    </div>
   </div> <!-- Main Content end -->
 
   <!-- row 4: footer -->
