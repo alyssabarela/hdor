@@ -1,3 +1,6 @@
+<?php session_start(); ?>
+<!-- $pageTitle = $_SESSION['pageTitle']; -->
+
 <!DOCTYPE html>
 <html>
 <head>
