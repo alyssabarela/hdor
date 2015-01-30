@@ -22,13 +22,15 @@
   <!-- row 1: nav -->
   <?php include 'php/nav.php';?>
 
-  <header class="header">
-    <div class="col-sm-4">
-      <a class="brand" href="#">
-        <img class="img-responsive" src="img/lizard.png"></img>
-      </a>
-    </div>
-    <div class="col-sm-8">
-      <h1>High Desert Off-Road</h1>
-    </div>
-  </header>
+  <div class="row">
+    <header class="header">
+      <div class="col-sm-4">
+        <a class="brand" href="#">
+          <img class="img-responsive" src="img/lizard.png"></img>
+        </a>
+      </div>
+      <div class="col-sm-8">
+        <h1>High Desert Off-Road</h1>
+      </div>
+    </header>
+  </div>
