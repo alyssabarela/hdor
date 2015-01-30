@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="css/main.min.css">
 </head>
-<body>
+<body id="home">
 <div class="container"> <!-- container -->
   <!-- row 1: nav -->
   <?php include 'php/nav.php';?>
