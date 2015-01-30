@@ -11,8 +11,8 @@
   <meta name="keywords" content="off-road,truck,buggy,jeep,rock,mud">
   <title>High Desert Off-Road</title>
   <base href="/hdor/" />
-  <link rel="icon" type="image/x-icon" href="media/favicon.ico">
-  <link rel="shortcut icon" href="media/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="logos/favicon.ico">
+  <link rel="shortcut icon" href="logos/favicon.ico">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="css/main.min.css">
@@ -26,7 +26,7 @@
     <header class="header">
       <div class="col-sm-4">
         <a class="brand" href="#">
-          <img class="img-responsive" src="img/lizard.png"></img>
+          <img class="img-responsive" src="logos/lizard.png"></img>
         </a>
       </div>
       <div class="col-sm-8">

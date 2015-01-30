@@ -3,6 +3,10 @@
 <!-- row2: header -->
 <?php include 'php/header.php';?>
 
+<div class="row">
+    <?php include 'php/carousel.php';?>
+</div>
+
 <!-- row 3: article/aside -->
 <div class="row"> <!-- Main Content Start -->
   <div class="col-sm-3 col-sm-push-9">
