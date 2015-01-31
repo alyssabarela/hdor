@@ -17,6 +17,8 @@ moving min files, images, and main code into<br>
 'public_html' directory<br>
 content of 'public_html' directory will be copied<br>
 to PROD(server)<br>
+place minified versions of js and css into appropriate<br>
+dir in 'public_html'<br>
 
 -Colors<br>
 Lt Green - #C8F283<br>

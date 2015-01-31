@@ -11,7 +11,9 @@
   <title>
     High Desert Off-Road - <?php echo $pageTitle;?>
   </title>
-  <base href="/hdor/" />
+
+  <!-- when moving to PROD, remove '/hdor' -->
+  <base href="/hdor/public_html/" />
   <link rel="icon" type="image/x-icon" href="logos/favicon.ico">
   <link rel="shortcut icon" href="logos/favicon.ico">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
