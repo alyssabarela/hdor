@@ -11,6 +11,12 @@ and custom.js --> custom.min.js<br>
 ++ adding a component<br>
 create a new componten.php file and 'include'<br>
 into appropriate page<br>
+++ moving content<br>
+to make code more easily moved to PROD(server)<br>
+moving min files, images, and main code into<br>
+'public_html' directory<br>
+content of 'public_html' directory will be copied<br>
+to PROD(server)<br>
 
 -Colors<br>
 Lt Green - #C8F283<br>
