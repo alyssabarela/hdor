@@ -1,4 +1,4 @@
-<!-- $_SESSION['pageTitle'] = Home; -->
+<?php $pageTitle = "Home";?>
 
 <!-- row2: header -->
 <?php include 'php/header.php';?>

@@ -1,5 +1,4 @@
 <?php session_start(); ?>
-<!-- $pageTitle = $_SESSION['pageTitle']; -->
 
 <!DOCTYPE html>
 <html>
@@ -9,7 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="High Desert Off-Road Club is...">
   <meta name="keywords" content="off-road,truck,buggy,jeep,rock,mud">
-  <title>High Desert Off-Road</title>
+  <title>
+    High Desert Off-Road - <?php echo $pageTitle;?>
+  </title>
   <base href="/hdor/" />
   <link rel="icon" type="image/x-icon" href="logos/favicon.ico">
   <link rel="shortcut icon" href="logos/favicon.ico">
