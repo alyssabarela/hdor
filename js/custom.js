@@ -6,7 +6,11 @@
 //   return(false);
 // });
 // other option need to add id 'home' to body tag
-$('#home a:contains("Home")').parent().addClass('active');
+$('#Home a:contains("Home")').parent().addClass('active');
+$('#About a:contains("About")').parent().addClass('active');
+$('#Friends a:contains("Friends")').parent().addClass('active');
+$('#Events a:contains("Events")').parent().addClass('active');
+$('#Contact a:contains("Contact")').parent().addClass('active');
 
 /** Shorthand for $( document ).ready() **/
 $(function() {
