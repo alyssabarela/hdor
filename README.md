@@ -6,8 +6,8 @@ HDOR website<br>
 -NOTES:<br>
 ++ less and js files<br>
 download Koala less compiler and set up to auto<br>
-compile main.less --> main.min.css<br>
-and custom.js --> custom.min.js<br>
+compile css/main.less --> public_html/css/main.min.css<br>
+and js/custom.js --> public_html/js/custom.min.js<br>
 ++ adding a component<br>
 create a new componten.php file and 'include'<br>
 into appropriate page<br>
