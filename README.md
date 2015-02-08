@@ -4,6 +4,8 @@ High Desert Off Road Club website build
 HDOR website<br>
 
 -NOTES:<br>
+++ if xampp wont start on windows:<br>
+open new cmd window, issue command 'net stop http'<br>
 ++ less and js files<br>
 download Koala less compiler and set up to auto<br>
 compile css/main.less --> public_html/css/main.min.css<br>
