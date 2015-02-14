@@ -7,6 +7,7 @@
 <div class="row"> <!-- Main Content Start -->
   <div class="col-sm-3 col-sm-push-9">
     <?php include 'php/upcomingEvents.php';?>
+    <?php include 'php/facebofacebookGroupokLike.php';?>
   </div>
   <div class="col-sm-9 col-sm-pull-3">
     <?php include 'php/welcome.php';?>
