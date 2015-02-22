@@ -10,7 +10,7 @@
     <?php include 'php/facebookGroup.php';?>
   </div>
   <div class="col-sm-9 col-sm-pull-3">
-    <?php include 'php/welcome.php';?>
+    <?php include 'php/aboutBody.php';?>
   </div>
 </div> <!-- Main Content end -->
 
